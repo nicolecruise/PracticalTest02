@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTest02</string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="operator1">Operator 1</string>
+    <string name="operator2">Operator 2</string>
+    <string name="operation1">Adunare</string>
+    <string name="operation2">Mul</string>
+
+    <string name="rezultat1">Result1</string>
+    <string name="rezultat2">Result2</string>
+</resources>
